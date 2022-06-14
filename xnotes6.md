@@ -24,6 +24,8 @@ npm install --save-dev style-loader@2.0.0 sass-loader@10.0.0 css-loader postcss
 // install ux storybook config
 npm install @ux/storybook-config --save-dev
 
+// exclude .storybook/preview-head.html from tartufo.toml
+
 
 // Modidfy main.js
 "addons": [
